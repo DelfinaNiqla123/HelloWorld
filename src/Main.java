@@ -2,8 +2,16 @@ public class Main {
 
 
     public static void main(String[] args) {
-        System.out.println( " Hallo World");
+        print( " Hallo World");
 
     }
+
+    public static void print(String massage) {
+        System.out.println(massage);
+
+    }
+
+
+
 }
 
