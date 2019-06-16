@@ -2,7 +2,10 @@ public class Main {
 
 
     public static void main(String[] args) {
-        print( " Hallo World");
+
+        String localMassage="Hallo World";
+
+        print( localMassage);
 
     }
 
